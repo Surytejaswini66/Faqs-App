@@ -1,0 +1,29 @@
+/* Write your code here. */
+.faq-item {
+  border-bottom: 1px solid #d7dae6;
+  padding: 16px 0;
+}
+
+.question-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.question-text {
+  font-size: 16px;
+  color: #52606d;
+  margin: 0;
+}
+
+.toggle-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.answer-text {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #9aa5b1;
+}
